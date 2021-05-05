@@ -1,0 +1,51 @@
+body{
+    width: 70%;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    background-image: url(f3107c7911141734e4eeaad24ed6c748_XL.jpg);
+    background-position: center center;
+    height: 250px;
+    padding-top:50px;
+}
+
+h1{
+    color: #c0d1d1;
+    background-color: rgba(0, 0, 0, 0.6); /*40%-ban átlátszó*/
+    margin-top:60px;
+    margin-left:60px;
+    text-indent: 25px;
+    margin-right: 60px;
+    font-weight: bold;
+}
+
+p{
+    text-align: justify;
+   padding: 10px;
+}
+
+footer{
+    background-color: #FF4500    ;
+    color:white;
+    height: 30px;
+    
+    
+}
+ footer p{
+    padding-top:5px;
+    text-align: center;
+ }
+
+ img{
+     width: 500px;
+     margin-top: 10px;
+ }
+ h3{
+    color: #48D1CC;
+    text-align: center; 
+    font-size: 1.2rem; /*alapertek 1,2 szerese*/
+    font-weight: bold;
+ }
+
