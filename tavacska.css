@@ -1,6 +1,6 @@
 body{
     width: 70%;
-    margin: auto;
+    margin: center;
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -22,7 +22,7 @@ h1{
 }
 
 p{
-    text-align: justify;
+    text-align:center;
    padding: 30px;
 }
 
