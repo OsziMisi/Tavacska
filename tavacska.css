@@ -13,7 +13,7 @@ header{
 
 h1{
     color: #bfcaca;
-    background-color: rgba(0, 0, 0, 1.0); /*40%-ban átlátszó*/
+    background-color: rgba(0, 0, 0, 0.6); /*40%-ban átlátszó*/
     margin-top:60px;
     margin-left:60px;
     text-indent: 25px;
