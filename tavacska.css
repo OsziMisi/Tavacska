@@ -1,19 +1,20 @@
-body{
+/*body{
     width: 70%;
     margin: center;
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 }
 
 header{
     background-image: url(f3107c7911141734e4eeaad24ed6c748_XL.jpg);
-    background-position: center center;
+    background-position: center;
     height: 250px;
     padding-top:50px;
 }
 
 h1{
     color: #bfcaca;
-    background-color: rgba(0, 0, 0, 0.6); /*40%-ban átlátszó*/
+    background-color: rgba(0, 0, 0, 0.6); 
     margin-top:60px;
     margin-left:60px;
     text-indent: 25px;
@@ -45,7 +46,12 @@ footer{
  h3{
     color: #48D1CC;
     text-align: center; 
-    font-size: 1.2rem; /*alapertek 1,2 szerese*/
+    font-size: 1.2rem; 
     font-weight: bold;
  }
-
+ */
+*{
+    text-align:left;
+ width: 50%;
+ margin: 0 auto;
+} 
