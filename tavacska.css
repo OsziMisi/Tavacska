@@ -13,3 +13,25 @@ img {
 p {
 font-size: larger;
 }
+
+ul {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    width: 100%;
+}
+li {
+    float:left;
+}
+li a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 10px 70px;
+}
+li a:hover {
+    text-decoration: none;
+}
