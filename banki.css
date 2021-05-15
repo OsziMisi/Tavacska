@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+table {
+    border: solid gray 5px;
+    text-align: center;
+    margin: auto;
+}
+
+#bankiszoveg {
+    margin: auto;
+    width: 50%;
+}
+
+.bankiimg {
+    width: 300px;
+    margin: auto;
+}
+

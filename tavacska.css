@@ -2,6 +2,14 @@
     margin: auto;
     width: 50%;
 }
+body {
+    background-color: beige;
+}
+
 img {
    width: 350px; 
+}
+
+p {
+font-size: larger;
 }
