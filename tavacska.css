@@ -1,57 +1,7 @@
-/*body{
-    width: 70%;
-    margin: center;
-    font-family: 'Times New Roman', Times, serif;
-    text-align: center;
+#fooldal {
+    margin: auto;
+    width: 50%;
 }
-
-header{
-    background-image: url(f3107c7911141734e4eeaad24ed6c748_XL.jpg);
-    background-position: center;
-    height: 250px;
-    padding-top:50px;
+img {
+   width: 350px; 
 }
-
-h1{
-    color: #bfcaca;
-    background-color: rgba(0, 0, 0, 0.6); 
-    margin-top:60px;
-    margin-left:60px;
-    text-indent: 25px;
-    margin-right: 60px;
-    font-weight: bold;
-}
-
-p{
-    text-align:center;
-   padding: 30px;
-}
-
-footer{
-    background-color: #FF4500    ;
-    color:rgb(255, 255, 255);
-    height: 30px;
-    
-    
-}
- footer p{
-    padding-top:5px;
-    text-align: center;
- }
-
- img{
-     width: 500px;
-     margin-top: 10px;
- }
- h3{
-    color: #48D1CC;
-    text-align: center; 
-    font-size: 1.2rem; 
-    font-weight: bold;
- }
- */
-*{
-    text-align:left;
- width: 50%;
- margin: 0 auto;
-} 
