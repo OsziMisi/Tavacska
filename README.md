@@ -1,7 +1,5 @@
 # Tavacska
-Máté
-Hammcsi bancsi-En vagyok a silver XDD
-csanád aki global elite
+Mindenki lopta a vasat es csinalt mindent
 
 Oldal linke: 
 https://oszimisi.github.io/Tavacska/index.html
